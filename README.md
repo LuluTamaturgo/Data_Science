@@ -1,7 +1,7 @@
 # Data_Science: Primeiro desafio
 
 Este é o primeiro desafio que realizo sobre o assunto Data Science.
-Nele utilizo o Google Colab como plataforma. 
+Etou utilizando o Google Colab como plataforma. 
 
 ## Descrição do Desafio:
 
